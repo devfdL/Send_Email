@@ -1,5 +1,5 @@
 # Auto Send_Email
-This program made for help people to send E-mail automaticly. 
+This program made for help people to send E-mail automatically. 
 
 
 # Steps:
